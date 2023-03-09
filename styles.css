@@ -1,0 +1,185 @@
+.footer {
+  margin-top: 5rem;
+  text-align: center;
+  font-size: 0.75rem;
+  color: rgb(39, 39, 39);
+  background-color: #f5f6f7;
+}
+.icon-list ul {
+  font-size: 25px;
+  list-style-type: none;
+}
+.icon-list ul li {
+  margin-left: 10px;
+}
+.icon-list ul li a {
+  color: rgb(34, 34, 34);
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]
+{
+  display: none;
+}
+body {
+  background-color: rgb(255, 246, 235) !important;
+}
+.navbar-brand,
+.col-md-12,
+.col-md-6 h4,
+.mensajeReview h3 {
+  font-family: "Bebas Neue", Impact, sans-serif;
+}
+
+.borde {
+  background-image: url(/cover_3-sixteen_nine.jpg) !important;
+}
+
+.banner {
+  background-image: url("/banner.jpg");
+  height: 609px;
+  width: auto;
+  margin-bottom: 3rem;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+  text-shadow: 1px 1px 2px black;
+}
+.banner h3 {
+  font-size: 3rem;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  color: #fff;
+}
+
+.banner h4 {
+  font-size: 5rem;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  color: #ffdc17;
+}
+
+.button1 {
+  margin-top: 1rem;
+}
+
+.section1 {
+  background-image: url("/Classic_Sports_Car_Barn_Finds_08_Type_57S_II.png");
+  height: 50vh;
+  width: auto;
+  border: 7px outset #ffdc17;
+  border-radius: 10px;
+}
+.section2 {
+  background-color: rgb(211, 211, 149);
+  border-radius: 10px;
+}
+.section3 {
+  background-image: url("/1935-duesenberg-ii-model-sj-torpedo-phaeton-1.jpg");
+  height: 50vh;
+  width: auto;
+  border: 7px outset #ffdc17;
+  border-radius: 10px;
+}
+
+.carImage1 {
+  background-image: url("dodgeDart.webp");
+  height: auto;
+  max-width: 100%;
+}
+.imagencarro {
+  height: auto;
+  width: 250px;
+  border-radius: 10px;
+}
+.borde {
+  margin: 3rem 2rem 4rem 2rem;
+}
+.mensaje {
+  text-align: center;
+  padding: 3rem 2rem 4rem 2rem;
+  text-shadow: 1px 1px 2px black;
+}
+/* .mensaje h3, p{
+  color: #ffffff;
+} */
+
+.contacto > .row > .col-md-3 {
+  border-left: 2px solid #4a4a4aa1;
+  margin-top: 2rem;
+}
+
+.contacto > .row > .col-md-3 > .icon-list ol,
+ul {
+  padding-left: 0rem !important;
+  align-items: center;
+  justify-content: center;
+}
+
+#imagen {
+  height: 50px;
+}
+#imgcontact {
+  height: 100px !important;
+}
+
+.col-md-12 {
+  margin-bottom: 1rem;
+}
+.section1 h4,
+p,
+.button2 {
+  margin-top: 4rem;
+}
+.ctg1 h4 {
+  padding: 10px;
+  background-color: rgb(191, 225, 255);
+}
+.section3 h4,
+p,
+.button2 {
+  margin-top: 4rem;
+}
+.ctg2 h4 {
+  padding: 10px;
+  background-color: #ffdc17;
+}
+.section2 h4,
+p,
+.img {
+  margin-top: 2rem;
+}
+
+.btnReview {
+  margin-bottom: 1rem;
+}
+
+.reviews {
+  margin-bottom: 5rem;
+}
+@media screen and (min-width: 497px) and (max-width: 810px) {
+  .banner h3 {
+    font-size: 2rem;
+  }
+
+  .banner h4 {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .imgcarro {
+    padding-bottom: 7rem !important;
+  }
+}
+@media screen and (max-width: 496px) {
+  .banner h3 {
+    font-size: 1.5rem;
+  }
+
+  .banner h4 {
+    font-size: 2rem;
+  }
+}
